@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "6057b65b8e11235ef158ef9b"
+  },
+  "nombre": "Fideos",
+  "categoria": "Harina",
+  "stock": 20
+},{
+  "_id": {
+    "$oid": "6057b6618e11235ef158ef9c"
+  },
+  "nombre": "Leche",
+  "categoria": "Lacteos",
+  "stock": 30
+},{
+  "_id": {
+    "$oid": "6057b6668e11235ef158ef9d"
+  },
+  "nombre": "Crema",
+  "categoria": "Lacteos",
+  "stock": 15
+}]
